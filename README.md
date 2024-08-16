@@ -40,11 +40,16 @@
 <div align="center">
   <h3>Currently Learning:</h3>
   <p>
-    <img src="https://progress-bar.dev/70/?title=PHP" alt="PHP Progress" /> <br>
-    <img src="https://progress-bar.dev/60/?title=Laravel" alt="Laravel Progress" /> <br>
-    <img src="https://progress-bar.dev/50/?title=Filament" alt="Filament Progress" />
+    <img src="https://progress-bar.dev/70/?title=PHP&color=4caf50" alt="PHP Progress" /><br>
+    <img src="https://progress-bar.dev/60/?title=Laravel&color=2196F3" alt="Laravel Progress" /><br>
+    <img src="https://progress-bar.dev/50/?title=Filament&color=ff5722" alt="Filament Progress" />
   </p>
 </div>
+
+# 🎨 Animated Contribution Graph
+<p align="center">
+  <img src="https://github.com/FruHafizd/FruHafizd/blob/main/assets/github-contribution-grid-snake.svg" alt="Contribution Graph Animation">
+</p>
 
 ---
 
