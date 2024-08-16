@@ -4,6 +4,7 @@
   🔥 Passionate about building web applications with modern frameworks and technologies.<br>
   🎯 Constantly learning and growing as a developer.<br>
   ✨ I love creating efficient, scalable, and secure applications.
+  <img  src="https://github.com/FruHafizd/FruHafizd/blob/main/grid-snake.svg" alt="snake" /></a>
 </p>
 
 ## 🎓 Learning Progress
@@ -56,8 +57,3 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-
-## 💡 Favorite Quotes
-<p align="center">
-  "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
-</p>
