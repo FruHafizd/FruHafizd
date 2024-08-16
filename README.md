@@ -12,13 +12,6 @@
   <img src="https://img.shields.io/badge/Current%20Learning%20Path-%20PHP%20|%20Laravel%20|%20Filament-%23000000.svg?style=for-the-badge" alt="Learning Progress" />
 </p>
 
-## 🌟 Achievements
-<p align="center">
-  🏆 Completed multiple complex projects with Laravel and Filament.<br>
-  🚀 Contributed to open-source projects and gained valuable experience.<br>
-  💡 Recognized for innovative solutions and efficient code practices.
-</p>
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/fruhasc" target="_blank">
