@@ -11,6 +11,12 @@
   <a href="https://www.instagram.com/fruhasc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.linkedin.com/in/fruhafizd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fruhafizd@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 # 💻 Tech Stack
@@ -24,6 +30,8 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 # 📊 GitHub Stats
@@ -38,27 +46,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-# 📚 Learning Progress
-<div align="center">
-  <h3>Currently Learning:</h3>
-  <p>
-    <img src="https://progress-bar.dev/70/?title=PHP&color=4caf50" alt="PHP Progress" /><br>
-    <img src="https://progress-bar.dev/60/?title=Laravel&color=2196F3" alt="Laravel Progress" /><br>
-    <img src="https://progress-bar.dev/50/?title=Filament&color=ff5722" alt="Filament Progress" />
-  </p>
-</div>
-
-# 🎨 Animated Contribution Graph
+## 🎓 Learning Progress
 <p align="center">
-  <img src="https://github.com/FruHafizd/FruHafizd/blob/main/assets/github-contribution-grid-snake.svg" alt="Contribution Graph Animation">
+  <img src="https://img.shields.io/badge/Current%20Learning%20Path-%20PHP%20|%20Laravel%20|%20Filament-%23000000.svg?style=for-the-badge" alt="Learning Progress" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FruHafizd&icon=0&color=0" alt="Visitor Count">
-</p>
-
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
