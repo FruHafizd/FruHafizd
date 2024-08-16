@@ -6,14 +6,9 @@
   ✨ I love to create efficient, scalable, and secure applications.
 </p>
 
-<!-- Snake GIF -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
+## 🏙️ GitHub Skyline:
+[Check out my GitHub Skyline](https://skyline.github.com/FruHafizd) for a 3D visualization of my contributions!
+
 
 ## 🌐 Connect with me:
 <p align="center">
