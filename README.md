@@ -1,17 +1,19 @@
-# 💫 About Me:
+# 💫 About Me
 <h2 align="center">Full Stack Learner 🚀</h2>
 <p align="center">
-  🔥 Passionate about building web applications with modern frameworks and technologies. <br>
-  🎯 Constantly learning and growing as a developer. <br>
-  ✨ I love to create efficient, scalable, and secure applications.
+  🔥 Passionate about building web applications with modern frameworks and technologies.<br>
+  🎯 Constantly learning and growing as a developer.<br>
+  ✨ I love creating efficient, scalable, and secure applications.
 </p>
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/fruhasc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/fruhasc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -24,7 +26,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FruHafizd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FruHafizd&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
@@ -36,7 +38,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-# 📚 Learning Progress:
+# 📚 Learning Progress
 <div align="center">
   <h3>Currently Learning:</h3>
   <p>
@@ -59,4 +61,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
