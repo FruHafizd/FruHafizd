@@ -6,6 +6,11 @@
   ✨ I love creating efficient, scalable, and secure applications.
 </p>
 
+## 🎓 Learning Progress
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Learning%20Path-%20PHP%20|%20Laravel%20|%20Filament-%23000000.svg?style=for-the-badge" alt="Learning Progress" />
+</p>
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/fruhasc" target="_blank">
@@ -46,7 +51,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-## 🎓 Learning Progress
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Learning%20Path-%20PHP%20|%20Laravel%20|%20Filament-%23000000.svg?style=for-the-badge" alt="Learning Progress" />
-</p>
