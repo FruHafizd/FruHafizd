@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/Current%20Learning%20Path-%20PHP%20|%20Laravel%20|%20Filament-%23000000.svg?style=for-the-badge" alt="Learning Progress" />
 </p>
 
+## 🌟 Achievements
+<p align="center">
+  🏆 Completed multiple complex projects with Laravel and Filament.<br>
+  🚀 Contributed to open-source projects and gained valuable experience.<br>
+  💡 Recognized for innovative solutions and efficient code practices.
+</p>
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/fruhasc" target="_blank">
@@ -35,7 +42,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -51,3 +57,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
+## 💡 Favorite Quotes
+<p align="center">
+  "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+</p>
