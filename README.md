@@ -6,13 +6,9 @@
   ✨ I love to create efficient, scalable, and secure applications.
 </p>
 
-## 🏙️ GitHub Skyline:
-[Check out my GitHub Skyline](https://skyline.github.com/FruHafizd) for a 3D visualization of my contributions!
-
-
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.instagram.com/fruhasc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/fruhasc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 # 💻 Tech Stack:
@@ -38,6 +34,16 @@
 ### 🔝 Top Contributed Repos
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=FruHafizd&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+# 📚 Learning Progress:
+<div align="center">
+  <h3>Currently Learning:</h3>
+  <p>
+    <img src="https://progress-bar.dev/70/?title=PHP" alt="PHP Progress" /> <br>
+    <img src="https://progress-bar.dev/60/?title=Laravel" alt="Laravel Progress" /> <br>
+    <img src="https://progress-bar.dev/50/?title=Filament" alt="Filament Progress" />
+  </p>
 </div>
 
 ---
