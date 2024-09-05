@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&duration=2000&pause=1000&width=435&lines=Hello;I'm+Hafizd;And+i'm+Full+Stack+Learner+%F0%9F%9A%80)](https://git.io/typing-svg) <br>
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="24" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&duration=2000&pause=1000&width=435&lines=Hello;I'm+Hafizd;And+i'm+Full+Stack+Learner+%F0%9F%9A%80)](https://git.io/typing-svg) <br>
 
 
 # 💫 About Me
