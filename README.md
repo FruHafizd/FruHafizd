@@ -1,6 +1,13 @@
-# <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&duration=2000&pause=1000&width=200&lines=Hello;I'm+Hafizd;And+i'm+Full+Stack+Learner+%F0%9F%9A%80)](https://git.io/typing-svg)
-  <img  src="https://github.com/FruHafizd/FruHafizd/blob/main/grid-snake.svg" alt="snake" /></a>
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" style="vertical-align: middle;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&duration=2000&pause=1000&width=200&lines=Hello;I'm+Hafizd;And+i'm+Full+Stack+Learner+%F0%9F%9A%80" alt="Typing SVG" style="vertical-align: middle;" />
+  </a>
+</div>
+<p>
+  <img src="https://github.com/FruHafizd/FruHafizd/blob/main/grid-snake.svg" alt="snake" />
 </p>
+
 
 ## 🎓 Learning Progress
 <p align="center">
